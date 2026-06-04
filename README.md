@@ -1,6 +1,6 @@
 # Smart Retail Sales Analysis
 ## Project Overview
-This project focuses on cleaning, processing, and visualizing retail sales data to uncover meaningful business insights.
+This project focuses on cleaning, processing, and visualizing retail sales data to derive actionable business insights. The dataset was analyzed using Python libraries such as Pandas, Matplotlib, and Seaborn. The project includes handling missing values, removing duplicate records, detecting outliers, and creating visualizations to understand sales trends, regional performance, and category-wise sales distribution.
 
 ## Objectives
 * Handle missing values
